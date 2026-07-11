@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain_mistralai
+langchain-community
+python-dotenv
+streamlit
