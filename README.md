@@ -194,15 +194,7 @@ Install all packages using
 pip install -r requirements.txt
 ```
 
----
 
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/your-username
-
----
 
 ## ⭐ If you like this project
 
